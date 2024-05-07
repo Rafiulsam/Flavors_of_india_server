@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "Chef Name": "Vikas Khanna",
-        "Years of Experience": "20 years",
-        "Number of Recipes": 4,
+        "Chef_Name": "Vikas Khanna",
+        "Years_of_Experience": "20 years",
+        "Number_of_Recipes": 4,
         "Likes": "46k",
-        "Chef Photo": "https://www.cookandchefinstitute.com/sites/default/files/styles/800x800/public/vikas_0.jpg?itok=LgwF4fyW"
+        "Chef_Photo": "https://www.cookandchefinstitute.com/sites/default/files/styles/800x800/public/vikas_0.jpg?itok=LgwF4fyW"
     },
     {
         "id": 2,
-        "Chef Name": "Sanjeev Kapoor",
-        "Years of Experience": "30 years",
-        "Number of Recipes": 4,
+        "Chef_Name": "Sanjeev Kapoor",
+        "Years_of_Experience": "30 years",
+        "Number_of_Recipes": 4,
         "Likes": "53k",
-        "Chef Photo": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg"
+        "Chef_Photo": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg"
     },
     {
         "id": 3,
-        "Chef Name": "Ranveer Brar",
-        "Years of Experience": "15 years",
-        "Number of Recipes": 3,
+        "Chef_Name": "Ranveer Brar",
+        "Years_of_Experience": "15 years",
+        "Number_of_Recipes": 3,
         "Likes": "34k",
-        "Chef Photo": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1652597275542.jpg-org"
+        "Chef_Photo": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1652597275542.jpg-org"
     },
     {
         "id": 4,
-        "Chef Name": "Manish Mehrotra",
-        "Years of Experience": "25 years",
-        "Number of Recipes": 3,
+        "Chef_Name": "Manish Mehrotra",
+        "Years_of_Experience": "25 years",
+        "Number_of_Recipes": 3,
         "Likes": "32k",
-        "Chef Photo": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-285848,resizemode-75,msid-47200745/magazines/panache/chef-manish-mehrotra-lists-his-favourite-books-on-food.jpg"
+        "Chef_Photo": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-285848,resizemode-75,msid-47200745/magazines/panache/chef-manish-mehrotra-lists-his-favourite-books-on-food.jpg"
     },
     {
         "id": 5,
-        "Chef Name": "Saransh Goila",
-        "Years of Experience": "10 years",
-        "Number of Recipes": 4,
+        "Chef_Name": "Saransh Goila",
+        "Years_of_Experience": "10 years",
+        "Number_of_Recipes": 4,
         "Likes": "28k",
-        "Chef Photo": "https://www.entrepreneurindia.com/influencer/images/speakers/saransh.jpg"
+        "Chef_Photo": "https://www.entrepreneurindia.com/influencer/images/speakers/saransh.jpg"
     },
     {
         "id": 6,
-        "Chef Name": "Vineet Bhatia",
-        "Years of Experience": "25 years",
-        "Number of Recipes": 3,
+        "Chef_Name": "Vineet Bhatia",
+        "Years_of_Experience": "25 years",
+        "Number_of_Recipes": 3,
         "Likes": "30k",
-        "Chef Photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rM7vYiWpQZ5k-NVS-Zk3kUTb8T32O8X5w6kDeBt8u3qvIh8a"
+        "Chef_Photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rM7vYiWpQZ5k-NVS-Zk3kUTb8T32O8X5w6kDeBt8u3qvIh8a"
     }
 ]
