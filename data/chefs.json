@@ -45,6 +45,7 @@
     "chef_name": "Vikas Khanna",
     "years_of_experience": "20 years",
     "number_of_recipes": 3,
+    "description": "Vikas Khanna is an award-winning Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He is known for his modern take on Indian cuisine and his efforts to promote Indian culinary traditions globally.",
     "likes": "46k",
     "chef_photo": "https://economictimes.indiatimes.com/thumb/msid-61959797,width-1200,height-900,resizemode-4,imgsize-158525/vikas-khanna-may-have-set-up-shop-in-ny-but-he-feels-chefs-in-india-have-a-unique-opportunity.jpg?from=mdr"
   },
@@ -94,6 +95,7 @@
     "chef_name": "Sanjeev Kapoor",
     "years_of_experience": "30 years",
     "number_of_recipes": 4,
+    "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is widely regarded as one of the most prominent chefs in India. Kapoor is best known for his TV show 'Khana Khazana,' which is one of the longest-running cookery shows in Asia.",
     "likes": "53k",
     "chef_photo": "https://images.indianexpress.com/2023/10/sanjeev-kapoor_600_pr.jpg"
   },
@@ -143,6 +145,7 @@
     "chef_name": "Ranveer Brar",
     "years_of_experience": "15 years",
     "number_of_recipes": 3,
+    "description": "Ranveer Brar is an Indian celebrity chef, TV show host, and judge on various cooking shows. He is known for his innovative cooking style and for promoting traditional Indian cuisine with a modern twist.",
     "likes": "34k",
     "chef_photo": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1652597275542.jpg-org"
   },
@@ -192,6 +195,7 @@
     "chef_name": "Manish Mehrotra",
     "years_of_experience": "25 years",
     "number_of_recipes": 3,
+    "description": "Manish Mehrotra is an Indian celebrity chef known for his innovative take on Indian cuisine. He is the chef and co-owner of the Indian Accent restaurant, which has been featured in Asia's 50 Best Restaurants list.",
     "likes": "32k",
     "chef_photo": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-285848,resizemode-75,msid-47200745/magazines/panache/chef-manish-mehrotra-lists-his-favourite-books-on-food.jpg"
   },
@@ -241,6 +245,7 @@
     "chef_name": "Saransh Goila",
     "years_of_experience": "10 years",
     "number_of_recipes": 4,
+    "description": "Saransh Goila is an Indian chef, TV show host, and author. He is best known for winning the Food Food Maha Challenge and hosting the TV show 'Roti Rasta aur India.' He is also the founder of 'Goila Butter Chicken,' a chain of Indian restaurants.",
     "likes": "28k",
     "chef_photo": "https://images.yourstory.com/cs/2/dc9aa1302d6c11e9aa979329348d4c3e/saransh-goila-1-cropped-160189461011-1606571290338.jpg?mode=crop&crop=faces&ar=2:1?width=750&q=75"
   },
@@ -290,6 +295,7 @@
     "chef_name": "Vineet Bhatia",
     "years_of_experience": "25 years",
     "number_of_recipes": 3,
+    "description": "Vineet Bhatia is an Indian-born British chef, restaurateur, and food consultant. He is known for his innovative approach to Indian cuisine, often referred to as 'Modern Indian' or 'Indian with a twist.' Bhatia is the owner of several restaurants, including 'Rasoi' in London, which was awarded a Michelin star in 2001.",
     "likes": "30k",
     "chef_photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rM7vYiWpQZ5k-NVS-Zk3kUTb8T32O8X5w6kDeBt8u3qvIh8a"
   }
