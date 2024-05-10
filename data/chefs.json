@@ -1,50 +1,296 @@
 [
-    {
-        "id": 1,
-        "chef_name": "Vikas Khanna",
-        "years_of_experience": "20 years",
-        "number_of_recipes": 4,
-        "likes": "46k",
-        "chef_photo": "https://economictimes.indiatimes.com/thumb/msid-61959797,width-1200,height-900,resizemode-4,imgsize-158525/vikas-khanna-may-have-set-up-shop-in-ny-but-he-feels-chefs-in-india-have-a-unique-opportunity.jpg?from=mdr"
+  {
+    "id": "1",
+    "recipes": {
+      "recipe1": {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "Recipe_Name": "Butter Chicken",
+        "Ingredients": [
+          "Chicken",
+          "Tomato Puree",
+          "Cream",
+          "Butter",
+          "Garam Masala"
+        ],
+        "Cooking_Method": "Marinate chicken in yogurt and spices, grill until cooked. In a separate pan, simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
+        "Rating": "4.8/5"
+      },
+      "recipe2": {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "Recipe_Name": "Palak Paneer",
+        "Ingredients": [
+          "Spinach",
+          "Paneer",
+          "Onion",
+          "Tomato",
+          "Ginger-Garlic Paste"
+        ],
+        "Cooking_Method": "Blanch spinach, blend into a puree. Sauté onions, add ginger-garlic paste, and tomatoes. Add spinach puree and paneer cubes. Simmer until the flavors blend.",
+        "Rating": "4.7/5"
+      },
+      "recipe3": {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "Recipe_Name": "Biryani",
+        "Ingredients": [
+          "Basmati Rice",
+          "Chicken/Mutton",
+          "Yogurt",
+          "Onion",
+          "Saffron"
+        ],
+        "Cooking_Method": "Marinate meat in yogurt and spices. Parboil rice. Layer rice and meat in a pot, top with fried onions and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
+        "Rating": "4.9/5"
+      }
     },
-    {
-        "id": 2,
-        "chef_name": "Sanjeev Kapoor",
-        "years_of_experience": "30 years",
-        "number_of_recipes": 4,
-        "likes": "53k",
-        "chef_photo": "https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg"
+    "chef_name": "Vikas Khanna",
+    "years_of_experience": "20 years",
+    "number_of_recipes": 3,
+    "likes": "46k",
+    "chef_photo": "https://economictimes.indiatimes.com/thumb/msid-61959797,width-1200,height-900,resizemode-4,imgsize-158525/vikas-khanna-may-have-set-up-shop-in-ny-but-he-feels-chefs-in-india-have-a-unique-opportunity.jpg?from=mdr"
+  },
+  {
+    "id": "2",
+    "recipes": {
+      "recipe1": {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "Recipe_Name": "Chole Bhature",
+        "Ingredients": [
+          "Chickpeas",
+          "Flour",
+          "Yogurt",
+          "Onion",
+          "Tomato"
+        ],
+        "Cooking_Method": "Soak chickpeas overnight, then boil until tender. Sauté onions, add tomatoes and spices. Serve with fried bread (bhature) and garnish with onions and lemon.",
+        "Rating": "4.6/5"
+      },
+      "recipe2": {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "Recipe_Name": "Masoor Dal",
+        "Ingredients": [
+          "Red Lentils",
+          "Onion",
+          "Tomato",
+          "Garlic",
+          "Cumin Seeds"
+        ],
+        "Cooking_Method": "Pressure cook lentils until soft. Sauté onions, add tomatoes and spices. Add cooked lentils and simmer until flavors meld. Temper with garlic and cumin seeds.",
+        "Rating": "4.5/5"
+      },
+      "recipe3": {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "Recipe_Name": "Aloo Gobi",
+        "Ingredients": [
+          "Potatoes",
+          "Cauliflower",
+          "Turmeric",
+          "Cumin Seeds",
+          "Coriander Powder"
+        ],
+        "Cooking_Method": "Sauté potatoes and cauliflower with spices until tender. Garnish with cilantro and serve hot with roti or rice.",
+        "Rating": "4.7/5"
+      }
     },
-    {
-        "id": 3,
-        "chef_name": "Ranveer Brar",
-        "years_of_experience": "15 years",
-        "number_of_recipes": 3,
-        "likes": "34k",
-        "chef_photo": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1652597275542.jpg-org"
+    "chef_name": "Sanjeev Kapoor",
+    "years_of_experience": "30 years",
+    "number_of_recipes": 4,
+    "likes": "53k",
+    "chef_photo": "https://images.indianexpress.com/2023/10/sanjeev-kapoor_600_pr.jpg"
+  },
+  {
+    "id": "3",
+    "recipes": {
+      "recipe1": {
+        "_id": "f69a695f037cd9484cecaea37ca71013",
+        "Recipe_Name": "Tandoori Chicken",
+        "Ingredients": [
+          "Chicken",
+          "Yogurt",
+          "Ginger-Garlic Paste",
+          "Lemon Juice",
+          "Tandoori Masala"
+        ],
+        "Cooking_Method": "Marinate chicken in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
+        "Rating": "4.9/5"
+      },
+      "recipe2": {
+        "_id": "f69a695f037cd9484cecaea37ca71014",
+        "Recipe_Name": "Paneer Tikka",
+        "Ingredients": [
+          "Paneer",
+          "Bell Peppers",
+          "Onion",
+          "Yogurt",
+          "Tandoori Masala"
+        ],
+        "Cooking_Method": "Marinate paneer cubes, bell peppers, and onions in yogurt and tandoori masala. Skewer and grill until charred.",
+        "Rating": "4.8/5"
+      },
+      "recipe3": {
+        "_id": "f69a695f037cd9484cecaea37ca71015",
+        "Recipe_Name": "Rogan Josh",
+        "Ingredients": [
+          "Lamb",
+          "Yogurt",
+          "Onion",
+          "Tomato",
+          "Kashmiri Red Chili Powder"
+        ],
+        "Cooking_Method": "Marinate lamb in yogurt and spices. Sauté onions, add tomatoes and spices. Add marinated lamb and simmer until tender.",
+        "Rating": "4.7/5"
+      }
     },
-    {
-        "id": 4,
-        "chef_name": "Manish Mehrotra",
-        "years_of_experience": "25 years",
-        "number_of_recipes": 3,
-        "likes": "32k",
-        "chef_photo": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-285848,resizemode-75,msid-47200745/magazines/panache/chef-manish-mehrotra-lists-his-favourite-books-on-food.jpg"
+    "chef_name": "Ranveer Brar",
+    "years_of_experience": "15 years",
+    "number_of_recipes": 3,
+    "likes": "34k",
+    "chef_photo": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1652597275542.jpg-org"
+  },
+  {
+    "id": "4",
+    "recipes": {
+      "recipe1": {
+        "_id": "f69a695f037cd9484cecaea37ca71016",
+        "Recipe_Name": "Dal Makhani",
+        "Ingredients": [
+          "Black Lentils",
+          "Red Kidney Beans",
+          "Cream",
+          "Butter",
+          "Ginger-Garlic Paste"
+        ],
+        "Cooking_Method": "Pressure cook lentils and beans until soft. Simmer with cream, butter, and ginger-garlic paste until flavors meld.",
+        "Rating": "4.9/5"
+      },
+      "recipe2": {
+        "_id": "f69a695f037cd9484cecaea37ca71017",
+        "Recipe_Name": "Shahi Paneer",
+        "Ingredients": [
+          "Paneer",
+          "Tomato",
+          "Cream",
+          "Cashews",
+          "Garam Masala"
+        ],
+        "Cooking_Method": "Sauté paneer cubes and tomato gravy with cream, cashews, and garam masala. Simmer until creamy and rich.",
+        "Rating": "4.8/5"
+      },
+      "recipe3": {
+        "_id": "f69a695f037cd9484cecaea37ca71018",
+        "Recipe_Name": "Chicken Tikka Masala",
+        "Ingredients": [
+          "Chicken",
+          "Tomato Puree",
+          "Cream",
+          "Butter",
+          "Garam Masala"
+        ],
+        "Cooking_Method": "Marinate chicken in yogurt and spices, grill until cooked. Simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
+        "Rating": "4.7/5"
+      }
     },
-    {
-        "id": 5,
-        "chef_name": "Saransh Goila",
-        "years_of_experience": "10 years",
-        "number_of_recipes": 4,
-        "likes": "28k",
-        "chef_photo": "https://www.entrepreneurindia.com/influencer/images/speakers/saransh.jpg"
+    "chef_name": "Manish Mehrotra",
+    "years_of_experience": "25 years",
+    "number_of_recipes": 3,
+    "likes": "32k",
+    "chef_photo": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-285848,resizemode-75,msid-47200745/magazines/panache/chef-manish-mehrotra-lists-his-favourite-books-on-food.jpg"
+  },
+  {
+    "id": "5",
+    "recipes": {
+      "recipe1": {
+        "_id": "f69a695f037cd9484cecaea37ca71019",
+        "Recipe_Name": "Pav Bhaji",
+        "Ingredients": [
+          "Potatoes",
+          "Tomatoes",
+          "Onions",
+          "Peas",
+          "Capsicum"
+        ],
+        "Cooking_Method": "Cook vegetables until soft, mash with spices. Serve with buttered bread rolls.",
+        "Rating": "4.7/5"
+      },
+      "recipe2": {
+        "_id": "f69a695f037cd9484cecaea37ca71020",
+        "Recipe_Name": "Paneer Butter Masala",
+        "Ingredients": [
+          "Paneer",
+          "Tomato Puree",
+          "Cream",
+          "Butter",
+          "Kasuri Methi"
+        ],
+        "Cooking_Method": "Sauté paneer cubes with tomato puree, cream, butter, and kasuri methi. Simmer until creamy and aromatic.",
+        "Rating": "4.6/5"
+      },
+      "recipe3": {
+        "_id": "f69a695f037cd9484cecaea37ca71021",
+        "Recipe_Name": "Aloo Paratha",
+        "Ingredients": [
+          "Wheat Flour",
+          "Potatoes",
+          "Green Chilies",
+          "Cilantro",
+          "Garam Masala"
+        ],
+        "Cooking_Method": "Stuff spiced mashed potatoes into rolled dough, cook on a griddle with ghee until golden brown.",
+        "Rating": "4.8/5"
+      }
     },
-    {
-        "id": 6,
-        "chef_name": "Vineet Bhatia",
-        "years_of_experience": "25 years",
-        "number_of_recipes": 3,
-        "likes": "30k",
-        "chef_photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rM7vYiWpQZ5k-NVS-Zk3kUTb8T32O8X5w6kDeBt8u3qvIh8a"
-    }
+    "chef_name": "Saransh Goila",
+    "years_of_experience": "10 years",
+    "number_of_recipes": 4,
+    "likes": "28k",
+    "chef_photo": "https://images.yourstory.com/cs/2/dc9aa1302d6c11e9aa979329348d4c3e/saransh-goila-1-cropped-160189461011-1606571290338.jpg?mode=crop&crop=faces&ar=2:1?width=750&q=75"
+  },
+  {
+    "id": "6",
+    "recipes": {
+      "recipe1": {
+        "_id": "f69a695f037cd9484cecaea37ca71022",
+        "Recipe_Name": "Tandoori Fish",
+        "Ingredients": [
+          "Fish Fillets",
+          "Yogurt",
+          "Ginger-Garlic Paste",
+          "Lemon Juice",
+          "Tandoori Masala"
+        ],
+        "Cooking_Method": "Marinate fish in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
+        "Rating": "4.9/5"
+      },
+      "recipe2": {
+        "_id": "f69a695f037cd9484cecaea37ca71023",
+        "Recipe_Name": "Vegetable Biryani",
+        "Ingredients": [
+          "Basmati Rice",
+          "Mixed Vegetables",
+          "Yogurt",
+          "Onion",
+          "Saffron"
+        ],
+        "Cooking_Method": "Parboil rice. Sauté mixed vegetables, layer with rice, and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
+        "Rating": "4.8/5"
+      },
+      "recipe3": {
+        "_id": "f69a695f037cd9484cecaea37ca71024",
+        "Recipe_Name": "Mango Lassi",
+        "Ingredients": [
+          "Mango",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Ice Cubes"
+        ],
+        "Cooking_Method": "Blend mango, yogurt, sugar, and cardamom until smooth. Serve chilled with ice cubes.",
+        "Rating": "4.7/5"
+      }
+    },
+    "chef_name": "Vineet Bhatia",
+    "years_of_experience": "25 years",
+    "number_of_recipes": 3,
+    "likes": "30k",
+    "chef_photo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rM7vYiWpQZ5k-NVS-Zk3kUTb8T32O8X5w6kDeBt8u3qvIh8a"
+  }
 ]
