@@ -4,42 +4,42 @@
     "recipes": {
       "recipe1": {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "Recipe_Name": "Butter Chicken",
-        "Ingredients": [
+        "recipe_name": "Butter Chicken",
+        "ingredients": [
           "Chicken",
           "Tomato Puree",
           "Cream",
           "Butter",
           "Garam Masala"
         ],
-        "Cooking_Method": "Marinate chicken in yogurt and spices, grill until cooked. In a separate pan, simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
-        "Rating": "4.8/5"
+        "cooking_method": "Marinate chicken in yogurt and spices, grill until cooked. In a separate pan, simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
+        "rating": "4.8/5"
       },
       "recipe2": {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "Recipe_Name": "Palak Paneer",
-        "Ingredients": [
+        "recipe_name": "Palak Paneer",
+        "ingredients": [
           "Spinach",
           "Paneer",
           "Onion",
           "Tomato",
           "Ginger-Garlic Paste"
         ],
-        "Cooking_Method": "Blanch spinach, blend into a puree. Sauté onions, add ginger-garlic paste, and tomatoes. Add spinach puree and paneer cubes. Simmer until the flavors blend.",
-        "Rating": "4.7/5"
+        "cooking_method": "Blanch spinach, blend into a puree. Sauté onions, add ginger-garlic paste, and tomatoes. Add spinach puree and paneer cubes. Simmer until the flavors blend.",
+        "rating": "4.7/5"
       },
       "recipe3": {
         "_id": "f69a695f037cd9484cecaea37ca71011",
-        "Recipe_Name": "Biryani",
-        "Ingredients": [
+        "recipe_name": "Biryani",
+        "ingredients": [
           "Basmati Rice",
           "Chicken/Mutton",
           "Yogurt",
           "Onion",
           "Saffron"
         ],
-        "Cooking_Method": "Marinate meat in yogurt and spices. Parboil rice. Layer rice and meat in a pot, top with fried onions and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
-        "Rating": "4.9/5"
+        "cooking_method": "Marinate meat in yogurt and spices. Parboil rice. Layer rice and meat in a pot, top with fried onions and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
+        "rating": "4.9/5"
       }
     },
     "chef_name": "Vikas Khanna",
@@ -54,47 +54,47 @@
     "recipes": {
       "recipe1": {
         "_id": "f69a695f037cd9484cecaea37ca71012",
-        "Recipe_Name": "Chole Bhature",
-        "Ingredients": [
+        "recipe_name": "Chole Bhature",
+        "ingredients": [
           "Chickpeas",
           "Flour",
           "Yogurt",
           "Onion",
           "Tomato"
         ],
-        "Cooking_Method": "Soak chickpeas overnight, then boil until tender. Sauté onions, add tomatoes and spices. Serve with fried bread (bhature) and garnish with onions and lemon.",
-        "Rating": "4.6/5"
+        "cooking_method": "Soak chickpeas overnight, then boil until tender. Sauté onions, add tomatoes and spices. Serve with fried bread (bhature) and garnish with onions and lemon.",
+        "rating": "4.6/5"
       },
       "recipe2": {
         "_id": "11468ed61aee84de492a8b04158a22f0",
-        "Recipe_Name": "Masoor Dal",
-        "Ingredients": [
+        "recipe_name": "Masoor Dal",
+        "ingredients": [
           "Red Lentils",
           "Onion",
           "Tomato",
           "Garlic",
           "Cumin Seeds"
         ],
-        "Cooking_Method": "Pressure cook lentils until soft. Sauté onions, add tomatoes and spices. Add cooked lentils and simmer until flavors meld. Temper with garlic and cumin seeds.",
-        "Rating": "4.5/5"
+        "cooking_method": "Pressure cook lentils until soft. Sauté onions, add tomatoes and spices. Add cooked lentils and simmer until flavors meld. Temper with garlic and cumin seeds.",
+        "rating": "4.5/5"
       },
       "recipe3": {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-        "Recipe_Name": "Aloo Gobi",
-        "Ingredients": [
+        "recipe_name": "Aloo Gobi",
+        "ingredients": [
           "Potatoes",
           "Cauliflower",
           "Turmeric",
           "Cumin Seeds",
           "Coriander Powder"
         ],
-        "Cooking_Method": "Sauté potatoes and cauliflower with spices until tender. Garnish with cilantro and serve hot with roti or rice.",
-        "Rating": "4.7/5"
+        "cooking_method": "Sauté potatoes and cauliflower with spices until tender. Garnish with cilantro and serve hot with roti or rice.",
+        "rating": "4.7/5"
       }
     },
     "chef_name": "Sanjeev Kapoor",
     "years_of_experience": "30 years",
-    "number_of_recipes": 4,
+    "number_of_recipes": 3,
     "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is widely regarded as one of the most prominent chefs in India. Kapoor is best known for his TV show 'Khana Khazana,' which is one of the longest-running cookery shows in Asia.",
     "likes": "53k",
     "chef_photo": "https://images.indianexpress.com/2023/10/sanjeev-kapoor_600_pr.jpg"
@@ -104,42 +104,42 @@
     "recipes": {
       "recipe1": {
         "_id": "f69a695f037cd9484cecaea37ca71013",
-        "Recipe_Name": "Tandoori Chicken",
-        "Ingredients": [
+        "recipe_name": "Tandoori Chicken",
+        "ingredients": [
           "Chicken",
           "Yogurt",
           "Ginger-Garlic Paste",
           "Lemon Juice",
           "Tandoori Masala"
         ],
-        "Cooking_Method": "Marinate chicken in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
-        "Rating": "4.9/5"
+        "cooking_method": "Marinate chicken in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
+        "rating": "4.9/5"
       },
       "recipe2": {
         "_id": "f69a695f037cd9484cecaea37ca71014",
-        "Recipe_Name": "Paneer Tikka",
-        "Ingredients": [
+        "recipe_name": "Paneer Tikka",
+        "ingredients": [
           "Paneer",
           "Bell Peppers",
           "Onion",
           "Yogurt",
           "Tandoori Masala"
         ],
-        "Cooking_Method": "Marinate paneer cubes, bell peppers, and onions in yogurt and tandoori masala. Skewer and grill until charred.",
-        "Rating": "4.8/5"
+        "cooking_method": "Marinate paneer cubes, bell peppers, and onions in yogurt and tandoori masala. Skewer and grill until charred.",
+        "rating": "4.8/5"
       },
       "recipe3": {
         "_id": "f69a695f037cd9484cecaea37ca71015",
-        "Recipe_Name": "Rogan Josh",
-        "Ingredients": [
+        "recipe_name": "Rogan Josh",
+        "ingredients": [
           "Lamb",
           "Yogurt",
           "Onion",
           "Tomato",
           "Kashmiri Red Chili Powder"
         ],
-        "Cooking_Method": "Marinate lamb in yogurt and spices. Sauté onions, add tomatoes and spices. Add marinated lamb and simmer until tender.",
-        "Rating": "4.7/5"
+        "cooking_method": "Marinate lamb in yogurt and spices. Sauté onions, add tomatoes and spices. Add marinated lamb and simmer until tender.",
+        "rating": "4.7/5"
       }
     },
     "chef_name": "Ranveer Brar",
@@ -154,42 +154,42 @@
     "recipes": {
       "recipe1": {
         "_id": "f69a695f037cd9484cecaea37ca71016",
-        "Recipe_Name": "Dal Makhani",
-        "Ingredients": [
+        "recipe_name": "Dal Makhani",
+        "ingredients": [
           "Black Lentils",
           "Red Kidney Beans",
           "Cream",
           "Butter",
           "Ginger-Garlic Paste"
         ],
-        "Cooking_Method": "Pressure cook lentils and beans until soft. Simmer with cream, butter, and ginger-garlic paste until flavors meld.",
-        "Rating": "4.9/5"
+        "cooking_method": "Pressure cook lentils and beans until soft. Simmer with cream, butter, and ginger-garlic paste until flavors meld.",
+        "rating": "4.9/5"
       },
       "recipe2": {
         "_id": "f69a695f037cd9484cecaea37ca71017",
-        "Recipe_Name": "Shahi Paneer",
-        "Ingredients": [
+        "recipe_name": "Shahi Paneer",
+        "ingredients": [
           "Paneer",
           "Tomato",
           "Cream",
           "Cashews",
           "Garam Masala"
         ],
-        "Cooking_Method": "Sauté paneer cubes and tomato gravy with cream, cashews, and garam masala. Simmer until creamy and rich.",
-        "Rating": "4.8/5"
+        "cooking_method": "Sauté paneer cubes and tomato gravy with cream, cashews, and garam masala. Simmer until creamy and rich.",
+        "rating": "4.8/5"
       },
       "recipe3": {
         "_id": "f69a695f037cd9484cecaea37ca71018",
-        "Recipe_Name": "Chicken Tikka Masala",
-        "Ingredients": [
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": [
           "Chicken",
           "Tomato Puree",
           "Cream",
           "Butter",
           "Garam Masala"
         ],
-        "Cooking_Method": "Marinate chicken in yogurt and spices, grill until cooked. Simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
-        "Rating": "4.7/5"
+        "cooking_method": "Marinate chicken in yogurt and spices, grill until cooked. Simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
+        "rating": "4.7/5"
       }
     },
     "chef_name": "Manish Mehrotra",
@@ -204,47 +204,47 @@
     "recipes": {
       "recipe1": {
         "_id": "f69a695f037cd9484cecaea37ca71019",
-        "Recipe_Name": "Pav Bhaji",
-        "Ingredients": [
+        "recipe_name": "Pav Bhaji",
+        "ingredients": [
           "Potatoes",
           "Tomatoes",
           "Onions",
           "Peas",
           "Capsicum"
         ],
-        "Cooking_Method": "Cook vegetables until soft, mash with spices. Serve with buttered bread rolls.",
-        "Rating": "4.7/5"
+        "cooking_method": "Cook vegetables until soft, mash with spices. Serve with buttered bread rolls.",
+        "rating": "4.7/5"
       },
       "recipe2": {
         "_id": "f69a695f037cd9484cecaea37ca71020",
-        "Recipe_Name": "Paneer Butter Masala",
-        "Ingredients": [
+        "recipe_name": "Paneer Butter Masala",
+        "ingredients": [
           "Paneer",
           "Tomato Puree",
           "Cream",
           "Butter",
           "Kasuri Methi"
         ],
-        "Cooking_Method": "Sauté paneer cubes with tomato puree, cream, butter, and kasuri methi. Simmer until creamy and aromatic.",
-        "Rating": "4.6/5"
+        "cooking_method": "Sauté paneer cubes with tomato puree, cream, butter, and kasuri methi. Simmer until creamy and aromatic.",
+        "rating": "4.6/5"
       },
       "recipe3": {
         "_id": "f69a695f037cd9484cecaea37ca71021",
-        "Recipe_Name": "Aloo Paratha",
-        "Ingredients": [
+        "recipe_name": "Aloo Paratha",
+        "ingredients": [
           "Wheat Flour",
           "Potatoes",
           "Green Chilies",
           "Cilantro",
           "Garam Masala"
         ],
-        "Cooking_Method": "Stuff spiced mashed potatoes into rolled dough, cook on a griddle with ghee until golden brown.",
-        "Rating": "4.8/5"
+        "cooking_method": "Stuff spiced mashed potatoes into rolled dough, cook on a griddle with ghee until golden brown.",
+        "rating": "4.8/5"
       }
     },
     "chef_name": "Saransh Goila",
     "years_of_experience": "10 years",
-    "number_of_recipes": 4,
+    "number_of_recipes": 3,
     "description": "Saransh Goila is an Indian chef, TV show host, and author. He is best known for winning the Food Food Maha Challenge and hosting the TV show 'Roti Rasta aur India.' He is also the founder of 'Goila Butter Chicken,' a chain of Indian restaurants.",
     "likes": "28k",
     "chef_photo": "https://images.yourstory.com/cs/2/dc9aa1302d6c11e9aa979329348d4c3e/saransh-goila-1-cropped-160189461011-1606571290338.jpg?mode=crop&crop=faces&ar=2:1?width=750&q=75"
@@ -254,42 +254,42 @@
     "recipes": {
       "recipe1": {
         "_id": "f69a695f037cd9484cecaea37ca71022",
-        "Recipe_Name": "Tandoori Fish",
-        "Ingredients": [
+        "recipe_name": "Tandoori Fish",
+        "ingredients": [
           "Fish Fillets",
           "Yogurt",
           "Ginger-Garlic Paste",
           "Lemon Juice",
           "Tandoori Masala"
         ],
-        "Cooking_Method": "Marinate fish in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
-        "Rating": "4.9/5"
+        "cooking_method": "Marinate fish in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
+        "rating": "4.9/5"
       },
       "recipe2": {
         "_id": "f69a695f037cd9484cecaea37ca71023",
-        "Recipe_Name": "Vegetable Biryani",
-        "Ingredients": [
+        "recipe_name": "Vegetable Biryani",
+        "ingredients": [
           "Basmati Rice",
           "Mixed Vegetables",
           "Yogurt",
           "Onion",
           "Saffron"
         ],
-        "Cooking_Method": "Parboil rice. Sauté mixed vegetables, layer with rice, and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
-        "Rating": "4.8/5"
+        "cooking_method": "Parboil rice. Sauté mixed vegetables, layer with rice, and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
+        "rating": "4.8/5"
       },
       "recipe3": {
         "_id": "f69a695f037cd9484cecaea37ca71024",
-        "Recipe_Name": "Mango Lassi",
-        "Ingredients": [
+        "recipe_name": "Mango Lassi",
+        "ingredients": [
           "Mango",
           "Yogurt",
           "Sugar",
           "Cardamom",
           "Ice Cubes"
         ],
-        "Cooking_Method": "Blend mango, yogurt, sugar, and cardamom until smooth. Serve chilled with ice cubes.",
-        "Rating": "4.7/5"
+        "cooking_method": "Blend mango, yogurt, sugar, and cardamom until smooth. Serve chilled with ice cubes.",
+        "rating": "4.7/5"
       }
     },
     "chef_name": "Vineet Bhatia",
