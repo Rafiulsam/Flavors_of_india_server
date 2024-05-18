@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "recipes": {
-      "recipe1": {
+    "recipes": [
+       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "recipe_name": "Butter Chicken",
         "ingredients": [
@@ -15,7 +15,7 @@
         "cooking_method": "Marinate chicken in yogurt and spices, grill until cooked. In a separate pan, simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
         "rating": "4.8/5"
       },
-      "recipe2": {
+      {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "recipe_name": "Palak Paneer",
         "ingredients": [
@@ -28,7 +28,7 @@
         "cooking_method": "Blanch spinach, blend into a puree. Sauté onions, add ginger-garlic paste, and tomatoes. Add spinach puree and paneer cubes. Simmer until the flavors blend.",
         "rating": "4.7/5"
       },
-      "recipe3": {
+     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
         "recipe_name": "Biryani",
         "ingredients": [
@@ -41,7 +41,7 @@
         "cooking_method": "Marinate meat in yogurt and spices. Parboil rice. Layer rice and meat in a pot, top with fried onions and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
         "rating": "4.9/5"
       }
-    },
+    ],
     "chef_name": "Vikas Khanna",
     "years_of_experience": "20 years",
     "number_of_recipes": 3,
@@ -51,8 +51,8 @@
   },
   {
     "id": "2",
-    "recipes": {
-      "recipe1": {
+    "recipes": [
+       {
         "_id": "f69a695f037cd9484cecaea37ca71012",
         "recipe_name": "Chole Bhature",
         "ingredients": [
@@ -65,7 +65,7 @@
         "cooking_method": "Soak chickpeas overnight, then boil until tender. Sauté onions, add tomatoes and spices. Serve with fried bread (bhature) and garnish with onions and lemon.",
         "rating": "4.6/5"
       },
-      "recipe2": {
+       {
         "_id": "11468ed61aee84de492a8b04158a22f0",
         "recipe_name": "Masoor Dal",
         "ingredients": [
@@ -78,7 +78,7 @@
         "cooking_method": "Pressure cook lentils until soft. Sauté onions, add tomatoes and spices. Add cooked lentils and simmer until flavors meld. Temper with garlic and cumin seeds.",
         "rating": "4.5/5"
       },
-      "recipe3": {
+       {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
         "recipe_name": "Aloo Gobi",
         "ingredients": [
@@ -91,7 +91,7 @@
         "cooking_method": "Sauté potatoes and cauliflower with spices until tender. Garnish with cilantro and serve hot with roti or rice.",
         "rating": "4.7/5"
       }
-    },
+    ],
     "chef_name": "Sanjeev Kapoor",
     "years_of_experience": "30 years",
     "number_of_recipes": 3,
@@ -101,8 +101,8 @@
   },
   {
     "id": "3",
-    "recipes": {
-      "recipe1": {
+    "recipes": [
+     {
         "_id": "f69a695f037cd9484cecaea37ca71013",
         "recipe_name": "Tandoori Chicken",
         "ingredients": [
@@ -115,7 +115,7 @@
         "cooking_method": "Marinate chicken in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
         "rating": "4.9/5"
       },
-      "recipe2": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71014",
         "recipe_name": "Paneer Tikka",
         "ingredients": [
@@ -128,7 +128,7 @@
         "cooking_method": "Marinate paneer cubes, bell peppers, and onions in yogurt and tandoori masala. Skewer and grill until charred.",
         "rating": "4.8/5"
       },
-      "recipe3": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71015",
         "recipe_name": "Rogan Josh",
         "ingredients": [
@@ -141,7 +141,7 @@
         "cooking_method": "Marinate lamb in yogurt and spices. Sauté onions, add tomatoes and spices. Add marinated lamb and simmer until tender.",
         "rating": "4.7/5"
       }
-    },
+    ],
     "chef_name": "Ranveer Brar",
     "years_of_experience": "15 years",
     "number_of_recipes": 3,
@@ -151,8 +151,8 @@
   },
   {
     "id": "4",
-    "recipes": {
-      "recipe1": {
+    "recipes": [
+      {
         "_id": "f69a695f037cd9484cecaea37ca71016",
         "recipe_name": "Dal Makhani",
         "ingredients": [
@@ -165,7 +165,7 @@
         "cooking_method": "Pressure cook lentils and beans until soft. Simmer with cream, butter, and ginger-garlic paste until flavors meld.",
         "rating": "4.9/5"
       },
-      "recipe2": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71017",
         "recipe_name": "Shahi Paneer",
         "ingredients": [
@@ -178,7 +178,7 @@
         "cooking_method": "Sauté paneer cubes and tomato gravy with cream, cashews, and garam masala. Simmer until creamy and rich.",
         "rating": "4.8/5"
       },
-      "recipe3": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71018",
         "recipe_name": "Chicken Tikka Masala",
         "ingredients": [
@@ -191,7 +191,7 @@
         "cooking_method": "Marinate chicken in yogurt and spices, grill until cooked. Simmer tomato puree with cream, butter, and spices. Add grilled chicken to the sauce and simmer until flavors meld.",
         "rating": "4.7/5"
       }
-    },
+    ],
     "chef_name": "Manish Mehrotra",
     "years_of_experience": "25 years",
     "number_of_recipes": 3,
@@ -201,8 +201,8 @@
   },
   {
     "id": "5",
-    "recipes": {
-      "recipe1": {
+    "recipes": [
+      {
         "_id": "f69a695f037cd9484cecaea37ca71019",
         "recipe_name": "Pav Bhaji",
         "ingredients": [
@@ -215,7 +215,7 @@
         "cooking_method": "Cook vegetables until soft, mash with spices. Serve with buttered bread rolls.",
         "rating": "4.7/5"
       },
-      "recipe2": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71020",
         "recipe_name": "Paneer Butter Masala",
         "ingredients": [
@@ -228,7 +228,7 @@
         "cooking_method": "Sauté paneer cubes with tomato puree, cream, butter, and kasuri methi. Simmer until creamy and aromatic.",
         "rating": "4.6/5"
       },
-      "recipe3": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71021",
         "recipe_name": "Aloo Paratha",
         "ingredients": [
@@ -241,7 +241,7 @@
         "cooking_method": "Stuff spiced mashed potatoes into rolled dough, cook on a griddle with ghee until golden brown.",
         "rating": "4.8/5"
       }
-    },
+    ],
     "chef_name": "Saransh Goila",
     "years_of_experience": "10 years",
     "number_of_recipes": 3,
@@ -251,8 +251,8 @@
   },
   {
     "id": "6",
-    "recipes": {
-      "recipe1": {
+    "recipes": [
+      {
         "_id": "f69a695f037cd9484cecaea37ca71022",
         "recipe_name": "Tandoori Fish",
         "ingredients": [
@@ -265,7 +265,7 @@
         "cooking_method": "Marinate fish in yogurt, ginger-garlic paste, lemon juice, and tandoori masala. Grill until cooked through, charred at the edges.",
         "rating": "4.9/5"
       },
-      "recipe2": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71023",
         "recipe_name": "Vegetable Biryani",
         "ingredients": [
@@ -278,7 +278,7 @@
         "cooking_method": "Parboil rice. Sauté mixed vegetables, layer with rice, and saffron-infused milk. Seal and cook on low heat until rice is fluffy.",
         "rating": "4.8/5"
       },
-      "recipe3": {
+      {
         "_id": "f69a695f037cd9484cecaea37ca71024",
         "recipe_name": "Mango Lassi",
         "ingredients": [
@@ -291,7 +291,7 @@
         "cooking_method": "Blend mango, yogurt, sugar, and cardamom until smooth. Serve chilled with ice cubes.",
         "rating": "4.7/5"
       }
-    },
+    ],
     "chef_name": "Vineet Bhatia",
     "years_of_experience": "25 years",
     "number_of_recipes": 3,
