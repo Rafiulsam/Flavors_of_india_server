@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Turmeric (Haldi)",
+    "img":"https://i.ibb.co/Hz0yfzF/3-Vwm-Ib-PWu9-Weqx8j-Vma-ZSGQKO9ll-Igg-Qve057-M1-Z.jpg",
+    "description": "Turmeric is a ground spice derived from the root of the Curcuma longa plant. It has an earthy, slightly bitter flavor and a vibrant yellow color that adds a warm hue to dishes. Turmeric is renowned not only for its culinary uses but also for its medicinal properties. It is a potent anti-inflammatory and antioxidant, used traditionally in Ayurvedic medicine to treat a variety of ailments.",
+    "usage": "In Indian cuisine, turmeric is typically used in small quantities, around a teaspoon per dish for a family of four. It is added at the beginning of cooking to oil, allowing its fat-soluble compounds to release their full flavor and health benefits. For enhanced health effects, include a dash of black pepper, which contains piperine, a compound that significantly increases the absorption of turmeric's active ingredient, curcumin, in the body."
+  },
+  {
+    "name": "Cumin (Jira, Jeera)",
+    "img":"https://i.ibb.co/02wN4R4/cumin-seed-720x.jpg",
+    "description": "Cumin seeds, originating from the Cuminum cyminum plant, are essential in Indian cooking. They have a warm, earthy flavor with a hint of sweetness and bitterness, reminiscent of caraway or dill. Cumin is integral to many spice blends, including garam masala and curry powders, and is used in various regional dishes across India.",
+    "usage": "Whole cumin seeds are often fried in hot oil at the beginning of cooking, a technique known as 'taarka,' which helps release their essential oils and flavors. They quickly turn brown and start to pop within 15-20 seconds, indicating they are ready. Ground cumin is also widely used and can be added at various stages of cooking to enhance the flavor profile of a dish."
+  },
+  {
+    "name": "Green Cardamom (Chhoti Ilayachi)",
+    "img": "https://i.ibb.co/GPGqTbY/Cardamom-640x.png",
+    "description": "Green cardamom, harvested from the Elettaria cardamomum plant, is a highly aromatic spice with a distinct, sweet, and floral flavor, often described as a mix of eucalyptus, mint, and pepper. It is used in both sweet and savory dishes and is a staple in Indian desserts, chai, and spice blends.",
+    "usage": "In savory dishes, whole green cardamom pods are typically fried in oil at the beginning of cooking, allowing the oil to extract and carry the spice's flavors throughout the dish. Depending on the recipe, 2-6 pods are usually sufficient. The pods can be lightly crushed to expose the seeds inside, enhancing their flavor release. Green cardamom is also used in ground form, especially in baking and dessert recipes."
+  },
+  {
+    "name": "Coriander",
+    "img":"https://i.ibb.co/TRb6M2H/l-intro-1688382525.jpg",
+    "description": "Coriander seeds come from the plant Coriandrum sativum, which also produces cilantro leaves. The seeds have a unique citrusy, nutty, and slightly floral aroma, making them a versatile spice in Indian and global cuisines. They are a key ingredient in various spice blends and dishes, providing a fresh and complex flavor profile.",
+    "usage": "Coriander seeds are best ground just before use to retain their fresh flavor. They are commonly added to sauces and curries at different stages of cooking. For a more intense flavor, whole seeds can be toasted in a dry pan before grinding or adding to dishes. Coriander is particularly prominent in dishes like Madras and Vindaloo, where it complements the heat and richness of the other spices."
+  },
+  {
+    "name": "Cilantro",
+    "img":"https://i.ibb.co/0XMkpM3/bunch-of-fresh-coriander-or-cilantro-on-a-wooden-table.jpg",
+    "description": "Cilantro refers to the fresh leaves of the coriander plant (Coriandrum sativum). It has a bright, citrusy flavor that can be polarizing, as some people perceive it as soapy due to genetic variations. Nonetheless, it is a widely loved herb in Indian cuisine, often used as a garnish to add freshness and color to dishes.",
+    "usage": "Cilantro leaves are typically chopped and sprinkled over dishes just before serving, enhancing the final flavor with their fresh, vibrant taste. They are especially favored in rich dals, hearty meat curries, and as a garnish for biryanis and salads. Cilantro is also used in chutneys and sauces, where its flavor can be more subtly integrated into the dish."
+  },
+  {
+    "name": "Garam Masala",
+    "img":"https://i.ibb.co/fGY3TnL/Garamasala-ingredients-1.jpg",
+    "description": "Garam masala is a complex and aromatic blend of ground spices, including pepper, cinnamon, nutmeg, cardamom, cumin, coriander, and sometimes additional ingredients like fennel and cloves. Each region in India has its own version of garam masala, making this spice blend highly variable in flavor and aroma. It is used to add warmth and depth to many Indian dishes.",
+    "usage": "Garam masala is typically added towards the end of the cooking process or even as a garnish, allowing its flavors to remain robust and distinct. One to two teaspoons are usually enough for a dish serving four people. It can also be added while frying onions or simmering sauces, blending seamlessly into the dish and enhancing its overall flavor."
+  },
+  {
+    "name": "Black Cardamom (Kali Ilayachi)",
+    "img":"https://i.ibb.co/VjHLDdn/black-cardamom.jpg",
+    "description": "Black cardamom, derived from the Amomum subulatum plant, has a bold, smoky flavor that distinguishes it from the milder green cardamom. This smokiness comes from drying the pods over open flames, imparting a deep, almost camphor-like aroma. It is a key spice in many savory Indian dishes, particularly those that are slow-cooked.",
+    "usage": "In Indian cuisine, black cardamom pods are usually used whole and added at the beginning of cooking to infuse the dish with their intense flavor. They are commonly found in biryanis, stews, and hearty meat dishes, where they complement other robust spices. Typically, one or two pods are enough for a dish serving four people."
+  },
+  {
+    "name": "Ginger (Adarek)",
+    "img":"https://i.ibb.co/vY73HHd/ginger-benefits-1600x900.jpg",
+    "description": "Ginger, from the Zingiber officinale plant, is a pungent and spicy root used extensively in Indian cooking. It has a warm, slightly sweet flavor with a hint of citrus, making it an essential ingredient in both sweet and savory dishes. Ginger is also valued for its medicinal properties, particularly its anti-inflammatory and digestive benefits.",
+    "usage": "Fresh ginger is commonly used in Indian recipes, often as part of a ginger-garlic paste that forms the base of many curries. If fresh ginger is unavailable, dried ginger can be substituted, though it has a different, more concentrated flavor. To use fresh ginger, peel and grate or mince a 1-2 inch piece and add it to the dish along with garlic, usually after the onions have softened."
+  },
+  {
+    "name": "Fenugreek (Methi)",
+    "img":"https://i.ibb.co/94kXpQ8/what-is-fenugreek-4x3-858b322062384c7fb7e82ba0ec5e84bb.jpg",
+    "description": "Fenugreek, known as methi in Hindi, is both an herb and a spice derived from the seeds and leaves of the Trigonella foenum-graecum plant. The seeds have a bitter, nutty flavor with a hint of sweetness, while the leaves have a distinct, slightly maple-like taste. Fenugreek is used extensively in Indian cuisine for its flavor and medicinal properties, including its ability to help regulate blood sugar levels.",
+    "usage": "Fenugreek seeds are often dry roasted or fried in oil to reduce their bitterness and bring out their nutty flavor before being added to dishes. They are commonly used in pickles, spice blends, and curry powders. Fenugreek leaves, either fresh or dried (known as kasuri methi), are used as a herb to add a unique flavor to curries, dals, and flatbreads. A small amount of fenugreek goes a long way, so it is typically used sparingly."
+  },
+  {
+    "name": "Asafoetida (Hing)",
+    "img":"https://i.ibb.co/jTV4Pnq/732717919-H-1024x700.webp",
+    "description": "Asafoetida, known as hing in Hindi, is a resin obtained from the roots of Ferula plants. It has a strong, pungent aroma that mellows into a flavor reminiscent of leeks or garlic when cooked. Despite its potent smell, asafoetida is prized in Indian cooking for its ability to enhance and deepen the flavors of other spices and ingredients.",
+    "usage": "To use asafoetida, add a small pinch (around ¼ to ½ teaspoon for a dish serving four) to hot oil or butter at the beginning of cooking. Allow it to sizzle for a few seconds before adding onions, garlic, or ginger. Asafoetida should be stored in a tightly sealed container to prevent its strong odor from permeating other spices. It is especially useful in vegetarian and lentil dishes, where it adds a savory depth."
+  }
+]

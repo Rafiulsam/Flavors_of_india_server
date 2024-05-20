@@ -4,6 +4,7 @@ const app = express()
 const port = 5000
 
 const chefs = require('./data/chefs.json')
+const spices= require('./data/spices.json')
 
 app.use(cors())
 
@@ -19,6 +20,10 @@ app.get('/chefs/:id', (req, res) => {
     const id = req.params.id;
     const chef = chefs.find(c => c.id === id)
     res.send(chef)
+})
+
+app.get('/spices', (req, res)=>{
+    res.send(spices)
 })
 
 app.listen(port, () => {

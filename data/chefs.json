@@ -5,6 +5,7 @@
        {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "recipe_name": "Butter Chicken",
+        "img":"https://i.ibb.co/SvS1ZjD/butter-chicken-ac2ff98.jpg",
         "ingredients": [
           "Chicken",
           "Tomato Puree",
@@ -18,6 +19,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "recipe_name": "Palak Paneer",
+        "img":"https://i.ibb.co/9GH0PRj/palak-paneer-recipe-featured.jpg",
         "ingredients": [
           "Spinach",
           "Paneer",
@@ -31,6 +33,7 @@
      {
         "_id": "f69a695f037cd9484cecaea37ca71011",
         "recipe_name": "Biryani",
+        "img":"https://i.ibb.co/8X603bv/Chicken-Biryani-500x500.webp",
         "ingredients": [
           "Basmati Rice",
           "Chicken/Mutton",
@@ -55,6 +58,7 @@
        {
         "_id": "f69a695f037cd9484cecaea37ca71012",
         "recipe_name": "Chole Bhature",
+        "img":"https://i.ibb.co/SQtc54z/294156779-1082267416022212-8006411537588067133-n-1-11zon-1660981126.jpg",
         "ingredients": [
           "Chickpeas",
           "Flour",
@@ -68,6 +72,7 @@
        {
         "_id": "11468ed61aee84de492a8b04158a22f0",
         "recipe_name": "Masoor Dal",
+        "img":"https://i.ibb.co/3YMxCMh/masoor-dal-recipe-500x500.jpg",
         "ingredients": [
           "Red Lentils",
           "Onion",
@@ -81,6 +86,7 @@
        {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
         "recipe_name": "Aloo Gobi",
+        "img":"https://i.ibb.co/zm02LYc/ND-Aloo-Gobi-gkwc-square640.jpg",
         "ingredients": [
           "Potatoes",
           "Cauliflower",
@@ -105,6 +111,7 @@
      {
         "_id": "f69a695f037cd9484cecaea37ca71013",
         "recipe_name": "Tandoori Chicken",
+        "img":"https://i.ibb.co/RgGQ7fp/tandoorichickenboardtop-500x500.jpg",
         "ingredients": [
           "Chicken",
           "Yogurt",
@@ -118,6 +125,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71014",
         "recipe_name": "Paneer Tikka",
+        "img":"https://i.ibb.co/58YFXgC/Paneer-tikka-featured-pic-sq.jpg",
         "ingredients": [
           "Paneer",
           "Bell Peppers",
@@ -131,6 +139,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71015",
         "recipe_name": "Rogan Josh",
+        "img":"https://i.ibb.co/tpp1dVH/Roganjoshhoteltopkadai.jpg",
         "ingredients": [
           "Lamb",
           "Yogurt",
@@ -155,6 +164,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71016",
         "recipe_name": "Dal Makhani",
+        "img":"https://i.ibb.co/hdxpGTz/Dal-Makhani-1.jpg",
         "ingredients": [
           "Black Lentils",
           "Red Kidney Beans",
@@ -168,6 +178,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71017",
         "recipe_name": "Shahi Paneer",
+        "img":"https://i.ibb.co/TBkSnGZ/52446409.jpg",
         "ingredients": [
           "Paneer",
           "Tomato",
@@ -181,6 +192,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71018",
         "recipe_name": "Chicken Tikka Masala",
+        "img":"https://i.ibb.co/25Rx2sw/Chicken-tikka-masala-for-the-grill-recipe-hero-2-1-cb493f49e30140efbffec162d5f2d1d7.jpg",
         "ingredients": [
           "Chicken",
           "Tomato Puree",
@@ -205,6 +217,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71019",
         "recipe_name": "Pav Bhaji",
+        "img":"https://i.ibb.co/7YPxsYB/Pav-bhaji-500x500.jpg",
         "ingredients": [
           "Potatoes",
           "Tomatoes",
@@ -218,6 +231,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71020",
         "recipe_name": "Paneer Butter Masala",
+        "img":"https://i.ibb.co/TPF89L7/paneer-butter-masala-5.jpg",
         "ingredients": [
           "Paneer",
           "Tomato Puree",
@@ -231,6 +245,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71021",
         "recipe_name": "Aloo Paratha",
+        "img":"https://i.ibb.co/37KPNx4/Aloo-Paratha-500x500.jpg",
         "ingredients": [
           "Wheat Flour",
           "Potatoes",
@@ -255,6 +270,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71022",
         "recipe_name": "Tandoori Fish",
+        "img":"https://i.ibb.co/PFq7T82/Tandoori-Fish-Cooked-on-a-BBQ-05-720x720.jpg",
         "ingredients": [
           "Fish Fillets",
           "Yogurt",
@@ -268,6 +284,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71023",
         "recipe_name": "Vegetable Biryani",
+        "img":"https://i.ibb.co/5jBDz4T/Vegetable-Biryani-With-Green-Raita-159c15d.jpg",
         "ingredients": [
           "Basmati Rice",
           "Mixed Vegetables",
@@ -281,6 +298,7 @@
       {
         "_id": "f69a695f037cd9484cecaea37ca71024",
         "recipe_name": "Mango Lassi",
+        "img":"https://i.ibb.co/MBTHkB1/Mango-Lassi-Recipe-15.jpg",
         "ingredients": [
           "Mango",
           "Yogurt",
