@@ -58,9 +58,6 @@ The server will be running on `http://localhost:5000/`
 
 - **GET** `/spices` - Fetch all spices data
 
-## License
-
-This project is licensed under the ISC License.
 
 ---
 
